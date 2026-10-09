@@ -1,32 +1,88 @@
-Oasis Infobyte Graphics Design – Task 1
-Project Title
-Poster Design
-Internship
+# Oasis Infobyte Graphics Design Internship — Task 1: Poster Design
+
+## Project Overview
+
+This project was completed as part of the **Oasis Infobyte Internship Program (OIBSIP)** under the Graphics Design track.
+
+The objective of this task was to design an attractive, visually engaging, and professional poster by applying fundamental graphic design principles. The design focuses on effective visual communication, clear information hierarchy, typography, color harmony, composition, and spacing.
+
+## Internship Details
+
+* **Internship Program:** Oasis Infobyte Internship Program (OIBSIP)
+* **Organization:** Oasis Infobyte
+* **Track:** Graphics Design
+* **Task:** Task 1 — Poster Design
+* **Project Type:** Poster Design
+* **Author:** Kalkidan Gerima
+
+## Tools Used
+
+* **Canva** — Poster creation and layout design
+* **Typography** — Font selection and text styling
+* **Graphic Design Principles** — Visual hierarchy, composition, color, and spacing
+
+## Design Objectives
+
+* Create an attractive and professional poster.
+* Communicate the intended message clearly and effectively.
+* Establish a strong visual hierarchy.
+* Use readable typography and appropriate font combinations.
+* Apply balanced composition and consistent spacing.
+* Select colors that complement the design's purpose.
+* Maintain a clean and visually appealing layout.
+
+## Key Design Features
+
+* **Clear Visual Hierarchy:** Organizes information according to importance.
+* **Readable Typography:** Improves readability and highlights key messages.
+* **Balanced Composition:** Arranges visual elements for a cohesive appearance.
+* **Appropriate Color Combination:** Creates visual harmony and reinforces the design's message.
+* **Professional Layout:** Uses alignment, spacing, and structure effectively.
+* **Strong Visual Communication:** Presents information in an engaging and accessible way.
+
+## Design Principles Applied
+
+The poster incorporates the following graphic design principles:
+
+1. **Contrast** — Differentiates important elements and improves visibility.
+2. **Alignment** — Creates structure and visual consistency.
+3. **Hierarchy** — Guides the viewer's attention through the content.
+4. **Proximity** — Groups related information together.
+5. **Color Theory** — Supports the visual mood and message.
+6. **Typography** — Establishes readability and visual identity.
+7. **White Space** — Prevents clutter and improves the overall composition.
+
+## Final Design
+
+The completed poster design is included in this repository.
+
+The final outcome demonstrates the practical application of graphic design principles to create a visually appealing and professional poster.
+
+## Skills Demonstrated
+
+* Poster design
+* Canva design and layout
+* Typography and font pairing
+* Color theory
+* Visual hierarchy
+* Composition and alignment
+* Creative problem-solving
+* Visual communication
+
+## Author
+
+**Kalkidan Gerima**
+
+Graphics Design Intern
 Oasis Infobyte Internship Program (OIBSIP)
-Track
-Graphics Design
-Task
-Task 1 – Poster Design
-Description
-This project was created as part of my Oasis Infobyte Graphics Design internship. The objective was to create an attractive and professional poster using graphic design principles such as visual hierarchy, typography, composition, color, and spacing.
-Tools Used
-Canva
-Graphic Design Principles
-Digital Typography
-Project Features
-Clear visual hierarchy
-Readable typography
-Balanced composition
-Appropriate color combination
-Professional layout
-Strong visual communication
-Final Design
-The completed poster is included in this repository.
-Author
-Kalkidan Gerima
-Internship Organization
-Oasis Infobyte
-#OasisInfobyte #GraphicsDesign #GraphicDesigner #Internship
+
+## Acknowledgment
+
+I would like to thank **Oasis Infobyte** for providing the opportunity to develop my graphic design skills through this internship task.
+
+---
+
+*This project was created for educational and professional development as part of the Oasis Infobyte Graphics Design Internship Program.*
 # GIR Repair Shop — Logo Design README
 
 ## 1. Project Overview
